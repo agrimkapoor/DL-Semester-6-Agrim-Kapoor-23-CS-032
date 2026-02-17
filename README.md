@@ -3,5 +3,5 @@ This repository consists of all the code for the experiments conducted in the la
 ## List of experiments :  
 Experiment 1 : To study about the basics of tensors   
 Experiment 2 : To implement fully connected neural network from scratch  
-Experiment 3 : To implement Convolution Neural Network from scratch
+Experiment 3 : To implement Convolution Neural Network from scratch  
 Experiment 4 : To implement text generation task by using RNN and LSTM
